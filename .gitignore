@@ -10,4 +10,14 @@ models/*
 # Keep models folders
 !models/.gitkeep
 
+# General macOS System Files
 .DS_Store
+.localized
+.AppleDouble
+.LSOverride
+
+# macOS Compression Folders
+__MACOSX/
+
+# Custom Icon Files (Corrected syntax)
+Icon[[:cntrl:]]
